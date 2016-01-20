@@ -16,3 +16,5 @@ Completed user stories:
  Optional: Increased total amount to 30pt and changed the color to green so it's the main focus.
  
  Walkthrough of all user stories:
+
+https://github.com/ariemanthony/tipcalc/blob/master/tipCalc.gif
